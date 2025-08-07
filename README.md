@@ -1,1 +1,2 @@
-# text_summarisation
+# End-to-end deployable text summarisation solution
+
