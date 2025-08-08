@@ -17,7 +17,6 @@ async def index():
     return RedirectResponse(url="/docs")
 
 
-
 @app.get("/train")
 async def training():
     try:
