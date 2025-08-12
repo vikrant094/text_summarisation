@@ -50,9 +50,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: vikrant saini
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: vikrantsaini094@gmail.com
 
 ```
 
